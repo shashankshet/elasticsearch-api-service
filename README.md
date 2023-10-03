@@ -1,6 +1,6 @@
 # elasticsearch-api-service
 
-### Installation Steps:
+### Initial Setup:
 1. Run the python script (worker.py) which is used to load data into elastic search index.
 2. Provide the follwong environment variables before running the python script.
    
