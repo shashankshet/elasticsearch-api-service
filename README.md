@@ -13,6 +13,7 @@
 
 3. Execute the worker file.
 
+---
 
 ### Running the Backend application
 1. Open the project RestClient in the IDE of your choice.
