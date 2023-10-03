@@ -1,5 +1,10 @@
 # elasticsearch-api-service
 
+This project comprises two primary components:
+
+- A Python administration script responsible for populating data into an Elasticsearch index.
+- A Spring Boot application featuring exposed APIs designed to facilitate querying Elasticsearch based on user-provided request parameters.
+
 ### Initial Setup:
 1. Run the python script (worker.py) which is used to load data into elastic search index.
 2. Provide the follwong environment variables before running the python script.
