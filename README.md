@@ -7,7 +7,7 @@ This project comprises two primary components:
 
 ### Initial Setup:
 1. Run the python script (worker.py) which is used to load data into elastic search index.
-2. Provide the follwong environment variables before running the python script.
+2. Provide the follwing environment variables before running the python script.
    
   | ENVIRONMENT VARIABLE| VALUE            |
   | ------------------- | ---------------- |
